@@ -6,3 +6,7 @@ languages:
   production:
     exclude:
       - .*/install\.sh
+      - .*/constants\.ts
+      - .*/styles\.ts
+      - .*/queries\.ts
+      - .*/mutations\.ts
