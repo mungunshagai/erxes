@@ -5,4 +5,4 @@ languages:
 - name: erxes
   production:
     exclude:
-      - .*.sh
+      - .*/scripts\.sh
