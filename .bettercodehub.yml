@@ -1,8 +1,7 @@
+component_depth: 6
+languages:
+- name: typescript
 exclude:
 - .*/graphql/.*
-- .*/styles/.*
-- .*/*styles\.ts
 - .*/constants\.ts
-- .*/style\.ts
 - .*/index\.ts
-- .*/animations\.ts
