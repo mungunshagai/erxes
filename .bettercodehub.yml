@@ -3,5 +3,8 @@ exclude:
 - .*/styles/.*
 - .*/*styles\.ts
 - .*/constants\.ts
+- .*/style\.ts
+- .*/index\.ts
+- .*/animation\.ts
 languages:
 - name: typescript
