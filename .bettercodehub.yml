@@ -6,5 +6,3 @@ exclude:
 - .*/style\.ts
 - .*/index\.ts
 - .*/animations\.ts
-languages:
-- name: typescript
