@@ -1,4 +1,5 @@
 exclude:
-- /graphql/.*
+- .*/graphql/.*
+- .*/styles\.ts
 languages:
 - name: typescript
