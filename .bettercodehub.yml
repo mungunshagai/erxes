@@ -1,0 +1,9 @@
+component_depth: 6
+languages:
+- typescript
+
+- name: erxes
+  production:
+    exclude:
+      - .*/styles\.ts
+
