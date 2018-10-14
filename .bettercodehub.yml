@@ -1,4 +1,8 @@
-- name: javascript
+component_depth: 6
+languages:
+- javascript
+
+- name: erxes
   production:
     exclude:
-      - .*/install/.*\.sh
+      - .*.sh
