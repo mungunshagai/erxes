@@ -1,9 +1,4 @@
-component_depth: 6
+exclude:
+- /graphql/.*
 languages:
-- typescript
-
 - name: typescript
-  production:
-    exclude:
-      - .*/styles\.ts
-
