@@ -1,9 +1,0 @@
-component_depth: 6
-languages:
-- typescript
-
-- name: typescript
-  production:
-    exclude:
-      - .*/styles\.ts
-
