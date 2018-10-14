@@ -6,5 +6,4 @@ languages:
   production:
     exclude:
       - .*/styles\.ts
-      - .*/install\.sh
 
