@@ -2,7 +2,7 @@ component_depth: 6
 languages:
 - typescript
 
-- name: erxes
+- name: typescript
   production:
     exclude:
-      - .*/scripts\.sh
+      - .*/install\.sh
