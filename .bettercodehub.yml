@@ -6,4 +6,4 @@ languages:
   production:
     exclude:
       - .*/install\.sh
-      - /graphql/.*
+      - .*\/graphql\/.*\.ts
