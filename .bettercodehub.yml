@@ -5,8 +5,8 @@ languages:
 - name: typescript
   production:
     exclude:
-      - .*/install\.sh
       - .*/constants\.ts
+      - .*/install\.sh
+      - .*/mutations\.ts
       - .*/styles\.ts
       - .*/queries\.ts
-      - .*/mutations\.ts
