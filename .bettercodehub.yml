@@ -1,4 +1,4 @@
-- name: java
+- name: javascript
   production:
     exclude:
-      - *.sh
+      - .*/install/.*\.sh
