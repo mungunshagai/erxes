@@ -1,6 +1,6 @@
 component_depth: 6
 languages:
-- javascript
+- typescript
 
 - name: erxes
   production:
